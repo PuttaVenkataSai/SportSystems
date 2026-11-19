@@ -101,7 +101,7 @@
                     <td>Main Ground</td>
                 </tr>
                 <tr>
-                    <td>Basketbal</td>
+                    <td>Basketball</td>
                     <td>Titans vs. Warriors</td>
                     <td>Oct 16, 02:00 PM</td>
                     <td>Indoor Court 1</td>
